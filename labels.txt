@@ -1,0 +1,30 @@
+0 ayam_pop
+1 bakso
+2 dendeng_batokok
+3 gado
+4 grontol
+5 gudeg
+6 gulai_ikan
+7 gulai_tambusu
+8 gulai_tunjang
+9 kue_ape
+10 kue_bika_ambon
+11 kue_cenil
+12 kue_dadar_gulung
+13 kue_gethuk_lindri
+14 kue_kastengel
+15 kue_klepon
+16 kue_lapis
+17 kue_lemper
+18 kue_lumpur
+19 kue_nagasari
+20 kue_pastel
+21 kue_putri_salju
+22 kue_risoles
+23 lanting
+24 lumpia
+25 putu ayu
+26 rendang
+27 serabi solo
+28 telur_balado
+29 wajik
